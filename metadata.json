@@ -1,0 +1,5 @@
+{
+  "name": "alarm clock",
+  "description": "A smart, aesthetic alarm clock with AI-powered wake-up briefings using Gemini. Features repeating alarms, custom labels, and a sleek dark UI.",
+  "requestFramePermissions": []
+}
